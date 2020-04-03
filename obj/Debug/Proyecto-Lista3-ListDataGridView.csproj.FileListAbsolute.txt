@@ -1,0 +1,9 @@
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\bin\Debug\Proyecto-Lista3-ListDataGridView.exe.config
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\bin\Debug\Proyecto-Lista3-ListDataGridView.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\bin\Debug\Proyecto-Lista3-ListDataGridView.pdb
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\obj\Debug\Proyecto-Lista3-ListDataGridView.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\obj\Debug\Proyecto_Lista3_ListDataGridView.Form1.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\obj\Debug\Proyecto_Lista3_ListDataGridView.Properties.Resources.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\obj\Debug\Proyecto-Lista3-ListDataGridView.csproj.GenerateResource.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\obj\Debug\Proyecto-Lista3-ListDataGridView.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista3-ListDataGridView\obj\Debug\Proyecto-Lista3-ListDataGridView.pdb
